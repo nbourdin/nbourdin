@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/NicolasBourdin"><img src="https://api.daily.dev/devcards/60ba02af06064863b73aab0d33b9d566.png?r=vou" width="400" alt="Nicolas Bourdin's Dev Card"/></a>
+
 <!--
 **nbourdin/nbourdin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
